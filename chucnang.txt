@@ -1,4 +1,4 @@
-chuc nang qlks cho pc
+﻿chuc nang qlks cho pc
 
 thêm khách hàng
 sửa thông tin khách hàng
@@ -12,3 +12,6 @@ chức năng qlks cho đt
 
 tạo tài khoản cho kh
 sửa thông tin
+
+dat thuc an
+dat nuoc uong
