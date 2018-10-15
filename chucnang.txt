@@ -1,4 +1,4 @@
-chuc nang qlks cho pc 
+chuc nang qlks cho pc
 
 thêm khách hàng
 sửa thông tin khách hàng
@@ -7,3 +7,8 @@ sửa thông tin khách hàng
 đặt phòng 
 check thông tin phòng
 hủy đặt
+
+chức năng qlks cho đt
+
+tạo tài khoản cho kh
+sửa thông tin
