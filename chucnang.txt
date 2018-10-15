@@ -1,1 +1,5 @@
+chuc nang qlks cho pc 
 
+thêm khách hàng
+sửa thông tin khách hàng
+ẩn thông tin khách hàng
